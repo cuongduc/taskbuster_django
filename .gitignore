@@ -1,0 +1,6 @@
+db.sqlite3
+__pycache__
+*.pyc
+tb_dev/
+tb_test/
+TaskBuster.sublime-workspace
